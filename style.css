@@ -125,6 +125,11 @@ body {
 .col-lg-4 {
   text-align: left;
   align-items: left;
+  a {
+    color: #ea288c;
+    font-size: bold;
+    text-decoration: none;
+  }
 }
 
 .col-lg-6 {
